@@ -1,0 +1,7 @@
+ Datasets used (both for your proposal):
+ 1. CDC — NPAO/BRFSS adult obesity by state
+    (https://data.cdc.gov/Nutrition-Physical-Activity-and-Obesity/Nutrition-Physical-Activity-and-Obesity-Behavioral-Risk/hn4x-z
+    wk7) — 51 states × 2011–2024, only 5 missing values
+ 2. FHWA — Highway Statistics Table VM-2 (https://www.fhwa.dot.gov/policyinformation/statistics/2024/vm2.cfm) — annual VMT by
+    state 2011–2024
+ 3. Population (2020 Census) → per-resident VMT
